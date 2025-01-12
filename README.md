@@ -1,2 +1,1 @@
-# knowledge
-Just a Wiki with lots of pages
+linkhttps://github.com/jmadison222/knowledge/wiki[Start from the Wiki]
